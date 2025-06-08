@@ -22,14 +22,7 @@
 - [Google Translate API / LibreTranslate API] *(based on your implementation)*
 - Web Speech API (for Text-to-Speech)
 
----
 
-## 📸 Demo
-
-Live Demo: [https://yourusername.github.io/worldvoice](https://yourusername.github.io/worldvoice)  
-*(Update the link once deployed)*
-
-![WorldVoice Screenshot](https://yourdomain.com/screenshot.png)
 
 ---
 
